@@ -13,7 +13,7 @@ public class Main {
         String command;
 
         while (true) {
-            System.out.println("Enter command (add, remove, view, exit): ");
+            System.out.println("\nEnter command (add, remove, view, exit): ");
             command = scanner.nextLine();
 
             if (command.equalsIgnoreCase("add")) {
