@@ -49,7 +49,7 @@ d. 'exit' will exit the program.
 
 ## Example:
 
-![Example Usage](example.png)
+![Example Usage](example.PNG)
 
 ### Code Structure
 
